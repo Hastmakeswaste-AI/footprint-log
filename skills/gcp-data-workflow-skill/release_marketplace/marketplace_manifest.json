@@ -1,0 +1,12 @@
+{
+  "id": "gcp-data-workflow-skill",
+  "version": "0.1.0",
+  "name": "GCP Data Workflow Skill",
+  "publisher": "YourCompany",
+  "description": "Scaffolds GCP Tier0->Tier1 dataset workflows, modeling templates, CI samples and examples for rapid delivery.",
+  "zip_file": "gcp-data-workflow-skill.zip",
+  "license": "MIT",
+  "keywords": ["gcp","data","bigquery","dataflow","dbt","copilot","workflow"],
+  "homepage": "https://your-company.example.com/gcp-data-workflow-skill",
+  "support_contact": "support@your-company.example.com"
+}
