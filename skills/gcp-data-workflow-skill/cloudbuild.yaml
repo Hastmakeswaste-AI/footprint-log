@@ -1,0 +1,4 @@
+﻿steps:
+- name: 'gcr.io/cloud-builders/python'
+  args: ['bash', '-lc', 'pip install pytest --quiet && python -m pytest -q']
+timeout: '1200s'

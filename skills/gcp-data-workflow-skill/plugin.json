@@ -1,0 +1,8 @@
+﻿{
+  "id": "gcp-data-workflow-skill",
+  "version": "0.1.0",
+  "name": "GCP Data Workflow Skill",
+  "entrypoint": "python handler.py",
+  "commands": ["scaffold workflow", "show modeling template"],
+  "description": "Scaffold GCP Tier0->Tier1 dataset workflows, modeling template and CI samples."
+}
