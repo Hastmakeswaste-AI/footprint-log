@@ -1,0 +1,11 @@
+﻿{
+  "name": "gcp-data-workflow-skill",
+  "version": "0.1.0",
+  "description": "Copilot skill to scaffold GCP Tier0->Tier1 data workflows, modeling templates, and CI samples.",
+  "entrypoints": [
+    { "command": "scaffold workflow", "description": "Scaffold a dataset workflow (files + CI)" },
+    { "command": "show modeling template", "description": "Open modeling design template" }
+  ],
+  "publisher": "team",
+  "license": "MIT"
+}
